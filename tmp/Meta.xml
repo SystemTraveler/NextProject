@@ -1,0 +1,5 @@
+<Meta>
+    <Param id="AppName">Example</Param>
+    <Param id="AppID">com.myapp</Param>
+    <Param id="Icon">DefaultIcon.png</Param>
+</Meta>
